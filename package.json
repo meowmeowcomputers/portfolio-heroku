@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/meowmeowcomputers/portfolio-heroku/issues"
   },
-  "homepage": "https://github.com/meowmeowcomputers/portfolio-heroku#readme"
+  "homepage": "https://github.com/meowmeowcomputers/portfolio-heroku#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "handlebars": "^4.0.10",
+    "pg-promise": "^6.2.3"
+  }
 }
